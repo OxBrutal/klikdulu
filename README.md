@@ -2,4 +2,4 @@
 Website bucin yg simple :v
 
 ## demo
-<a href="//klikdulu.caliph.my.id">Click Here</a>
+<a href="//iya.ikankoi.my.id">Click Here</a>
